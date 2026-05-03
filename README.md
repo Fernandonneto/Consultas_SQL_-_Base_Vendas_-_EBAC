@@ -1,4 +1,4 @@
-# 🧠 Análise de Dados: Consultas SQL em Base de Vendas
+# 🧠 Consultas SQL: Base de Vendas
 
 Este projeto faz parte do Módulo Banco de Dados SQL do curso de Cientista de Dados da EBAC e tem como objetivo aplicar conceitos de SQL para consulta, manipulação e análise de dados em uma base de vendas.
 
